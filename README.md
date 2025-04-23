@@ -1,6 +1,5 @@
 # Machine Learning Algorithms Repository
 
-## 📁Overview
 This repository contains implementations of fundamental **Machine Learning** algorithms used for **Concept Learning** in hypothesis space search. The algorithms included are:
 
 - **Find-S Algorithm**
@@ -8,8 +7,6 @@ This repository contains implementations of fundamental **Machine Learning** alg
 - **Candidate Elimination Algorithm**
 
 These algorithms are used in machine learning to derive hypotheses from training data, particularly for binary classification problems.
-
----
 
 ## 📖Algorithms Explained
 
@@ -104,9 +101,6 @@ Rainy, Cold, High, Strong, Warm, Change, No
 
 ---
 
-### 📚References
-
-Tom M. Mitchell, Machine Learning, McGraw Hill, 1997.
 
 ## 🎯Contributing
 Feel free to fork and submit pull requests. Contributions are welcome!
